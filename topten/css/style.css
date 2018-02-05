@@ -1,0 +1,21 @@
+body {
+	background-color: #ACA4B0;
+}
+p {
+	color: #6C394E;
+	font-family: Arial;
+}
+h1 {
+	color: #493B48;
+	font-family: Arial;
+}
+h2 {
+	color: #493B48;
+	font-family: Arial;
+}
+img {
+	width: 30%;
+	border: 4px;
+	border-style: solid;
+	border-color: #6C394E;
+}
