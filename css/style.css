@@ -1,0 +1,52 @@
+body {
+	background-color: #6E4376;
+	font-family: Arial;
+	text-align: center;
+}
+.wrapper {
+	background-color: #A56FAF;
+	max-width: 90%;
+	margin: 0 auto;
+	padding-bottom: 20px;
+}
+section {
+	background-color: #D394E0;
+	max-width: 90%;
+	margin: 0 auto;
+	padding-bottom: 20px;
+}
+img {
+	float: right;
+	max-width: 15%;
+	border: solid;
+	border-color: #381F3D;
+	margin: 10px;
+}
+.clearfix:after {
+	content: "";
+	visibility: hidden;
+	display: block;
+	height: 0;
+	clear: both;
+}
+article {
+	background-color: #F4D6F9;
+	max-width: 90%;
+	margin: 0 auto;
+}
+h1 {
+	color: #381F3D;
+}
+h2 {
+	color: #381F3D;
+}
+h3 {
+	color: #381F3D;
+}
+p {
+	color: #381F3D;
+}
+footer {
+	color: #381F3D;
+	text-align: center;
+}
