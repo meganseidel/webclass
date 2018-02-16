@@ -17,9 +17,9 @@ section {
 }
 img {
 	float: right;
-	max-width: 15%;
+	max-width: 25%;
 	border: solid;
-	border-color: #381F3D;
+	border-color: #6E4376;
 	margin: 10px;
 }
 .clearfix:after {
